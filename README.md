@@ -43,7 +43,7 @@ Placify addresses this issue by bringing everything under one roof—a unified s
 
 ## Team Members
 
-- Aditya Sharma 
+- Manik Chadgal
 - Shubham Garg
 - Nitya Jangra
 
